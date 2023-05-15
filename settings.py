@@ -1,4 +1,4 @@
-API_TOKEN: str = "961019773:AAF271xwgF8lskKr8x7exxMgzfgNGOioUuY"
+API_TOKEN: str = ""
 
 class REDIS:
     PREF = "redis://"
